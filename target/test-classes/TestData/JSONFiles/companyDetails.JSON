@@ -1,0 +1,32 @@
+
+{"CompanyName":"XYZLtd",
+  "Street":"Africa Avenue",
+  "City":"RK Puram , Delhi",
+  "State":"New Delhi",
+  "pinCode":110019,
+  "BankAccounts":["HDFC","SBI","AXIS"],
+  "employees":
+    [ { "firstName":"Chanchal",
+        "lastName":"Tomer",
+        "gender":"female",
+        "age":33,
+        "salary":110000,
+        "Address":{"Street":"Govindpuri",
+          "City":"Vijaywada",
+          "State": "Andra Pradesh",
+          "pinCode" : 530012
+                  }
+       },
+      {  "firstName":"Suresh",
+        "lastName":"Yadav",
+        "gender":"male",
+        "age":35,
+        "salary":11000,
+        "Address":{"Street":"Kalkaji",
+          "City":"Delhi",
+          "State": "New Delhi",
+          "pinCode" : 110018
+        }
+      }
+    ]
+    }
